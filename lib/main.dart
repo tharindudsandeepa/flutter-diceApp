@@ -26,7 +26,7 @@ class GradientContainer extends StatelessWidget {
           'Hello Worlds',
           style: TextStyle(
             color: Colors.white,
-            fontSize: 25,
+            fontSize: 30,
           ),
         ),
       ),
